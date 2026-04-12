@@ -1,4 +1,4 @@
-# HD Wallet Creation — Full Workflow with Examples
+# HD Wallet Creation — Full Workflow with Examples  -
 
 > How a wallet is built step by step: from random bits → seed phrase → master key → public key → address
 
